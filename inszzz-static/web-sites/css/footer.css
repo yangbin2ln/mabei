@@ -1,0 +1,16 @@
+@charset "uft-8";
+.ws-footer{background-color: #424343;padding-bottom: 20px;}
+.footer-nav{background-color: #323333;height: 40px;line-height: 40px;}
+.footer-nav-ul > li{display: inline-block;}
+.footer-nav-ul > li > a{display: inline-block;line-height: 18px;color: #ccc;padding: 0 30px;border-right: 1px solid #aaa;}
+.footer-nav-ul > li > a:hover{text-decoration: underline;}
+.footer-nav-ul > li:last-child a{border-right: 0;}
+.ws-footer .goTop{background-color: #0b5a9a;color: #fff;line-height: 40px;display: inline-block;padding: 0 20px;cursor: pointer;}
+.contat-way .ws-name{color: #ccc;margin: 20px 0}
+.contact-way-ul{}
+.contact-way-ul li{color: #999;font-size: 12px;}
+.contat-way .aq{color: #ccc;margin-top: 20px;}
+.tel{display: inline-block;width: 190px;text-align: left;}
+.tel > strong{font-size: 24px;color: #aaa;padding-top: 20px;display: inline-block;}
+.tel > p{color: #ccc;margin-bottom: 10px;}
+.tel .contact-btn{background-color: #0b5a9a;color: #fff;border: 0;outline: none;padding: 2px 5px;}
